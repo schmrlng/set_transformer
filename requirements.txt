@@ -1,0 +1,8 @@
+absl-py==1.0.0
+flax==0.4.0
+matplotlib==3.5.1
+ml-collections==0.1.1
+numpy==1.22.2
+optax==0.1.1
+tensorflow==2.8.0
+tensorflow-probability==0.16.0
